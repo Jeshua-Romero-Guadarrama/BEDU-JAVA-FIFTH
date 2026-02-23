@@ -1,0 +1,5 @@
+# Normaliza finales de linea y mantiene texto
+* text=auto
+*.java text eol=lf
+*.md text eol=lf
+*.sh text eol=lf

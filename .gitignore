@@ -1,0 +1,27 @@
+# Salidas de compilacion
+/out/
+/bin/
+/target/
+/build/
+/.gradle/
+/backend/build/
+/backend/.gradle/
+/backend/base-datos/
+/frontend/node_modules/
+/frontend/dist/
+*.class
+
+# Logs y exportaciones generadas
+*.log
+*.csv
+*.mv.db
+*.trace.db
+/base-datos/
+/.herramientas/
+
+# Configuracion de IDE/OS
+/.idea/
+/.vscode/
+*.iml
+.DS_Store
+Thumbs.db
